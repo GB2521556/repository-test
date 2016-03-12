@@ -80,6 +80,8 @@
         
         //总结：copy 和 mutableCopy 都是深拷贝，拷贝的是内容
     }
+    NSString *string = @"123123123";
+    string = @"454545";
     
 }
 
